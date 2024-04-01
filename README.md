@@ -18,8 +18,6 @@ Below are screenshots of the project in various stages following the client’s 
 
 ![image](https://github.com/vicduar/taskBoard5/assets/152129193/ba485169-dcf6-47d5-bb1c-e37f81e7f382)
 
-![image](https://github.com/vicduar/taskBoard5/assets/152129193/de1af72d-2824-41d4-b289-cac053c643d4)
-
 ![image](https://github.com/vicduar/taskBoard5/assets/152129193/3878a362-35ff-48ac-8810-f68c6ace62bb)
 
 ![image](https://github.com/vicduar/taskBoard5/assets/152129193/8203c792-4e01-4f82-bdf5-a7f581df7724)
