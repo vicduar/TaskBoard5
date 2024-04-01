@@ -31,9 +31,9 @@ GIVEN a personal blog WHEN I load the app, THEN I am presented with the landing 
 
 Link to Github: https://github.com/vicduar/taskBoard5.git
 
-Link to deployed website: https://
+Link to deployed website: https://vicduar.github.io/taskBoard5/
 
-Credits: https://vicduar.github.io/taskBoard5/
+Credits: 
 
 Websites used multiple times for obtaining information and as a repository for my project:
 
